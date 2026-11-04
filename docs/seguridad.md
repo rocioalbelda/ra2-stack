@@ -10,5 +10,5 @@
 | Límite de intentos de login | Sin control | Protegido con plugin |
 
 ## Medidas aplicadas y por qué
-- **Nginx:** Se deshabilitó la versión del servidor (server_tokens off) y se bloquearon los accesos directos a ficheros sensibles (xmlrpc.php, wp-config.php) y la ejecución de ficheros .php en la carpeta de subidas.
+- **Nginx:** Se deshabilitó la versión del servidor (server_tokens off) y se bloquearon los accesos directos a ficheros sensibles (xmlrpc.php, wp-config.php) y la ejecución de scripts .php en la carpeta de subidas.
 - **WordPress:** Se inhabilitó el editor interno mediante DISALLOW_FILE_EDIT y se protegió la plataforma frente a ataques de fuerza bruta.
