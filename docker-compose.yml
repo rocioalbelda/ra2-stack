@@ -10,7 +10,7 @@ services:
       - wordpress
 
   wordpress:
-    image: wordpress:7.1-php8.3-fpm
+    image: wordpress:php8.3-fpm
     environment:
       WORDPRESS_DB_HOST: db
       WORDPRESS_DB_NAME: ${WP_DB_NAME}
@@ -18,6 +18,10 @@ services:
       WORDPRESS_DB_PASSWORD: ${WP_DB_PASSWORD}
       WORDPRESS_CONFIG_EXTRA: |
         define('DISALLOW_FILE_EDIT', true);
+        $$iaw_host  = isset($$_SERVER['HTTP_X_FORWARDED_HOST']) ? $$_SERVER['HTTP_X_FORWARDED_HOST'] : $$_SERVER['HTTP_HOST'];
+        $$iaw_proto = isset($$_SERVER['HTTP_X_FORWARDED_PROTO']) ? $$_SERVER['HTTP_X_FORWARDED_PROTO'] : 'http';
+        define('WP_HOME',    $$iaw_proto . '://' . $$iaw_host);
+        define('WP_SITEURL', $$iaw_proto . '://' . $$iaw_host);
     volumes:
       - wp_data:/var/www/html
       - ./config/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini:ro
