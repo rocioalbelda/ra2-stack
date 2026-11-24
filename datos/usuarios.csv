@@ -1,0 +1,9 @@
+user_login,user_email,display_name,first_name,last_name,role
+coord.web,coord.web@example.com,Coordinación web,Laura,Ferrer,editor
+profe.redes,profe.redes@example.com,Profe de Redes,Vicent,Llorca,author
+profe.so,profe.so@example.com,Profe de Sistemas,Marta,Soler,author
+profe.bd,profe.bd@example.com,Profe de Bases de Datos,Jordi,Martí,author
+alumna.fct,alumna.fct@example.com,Alumna en prácticas,Irene,Navarro,contributor
+alumno.fct,alumno.fct@example.com,Alumno en prácticas,Pau,Ribes,contributor
+familia.garcia,familia.garcia@example.com,Familia García,,,subscriber
+exalumno.2025,exalumno.2025@example.com,Exalumno promoción 2025,,,subscriber

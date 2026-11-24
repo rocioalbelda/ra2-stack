@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Atajo para usar WP-CLI con el stack del proyecto
+exec docker compose run --rm -T wpcli wp "$@"

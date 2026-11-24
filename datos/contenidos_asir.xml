@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Contenidos de ejemplo para la sesión 17 (RA3 · IAW 0376). Formato WXR 1.2 de WordPress. -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+	<title>Ciclo ASIR (contenidos de ejemplo)</title>
+	<link>http://ciclo-asir.ejemplo</link>
+	<description>Noticias y prácticas del ciclo</description>
+	<language>es-ES</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://ciclo-asir.ejemplo</wp:base_site_url>
+	<wp:base_blog_url>http://ciclo-asir.ejemplo</wp:base_blog_url>
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[coord.web]]></wp:author_login><wp:author_email><![CDATA[coord.web@example.com]]></wp:author_email><wp:author_display_name><![CDATA[Coordinación web]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[profe.redes]]></wp:author_login><wp:author_email><![CDATA[profe.redes@example.com]]></wp:author_email><wp:author_display_name><![CDATA[Profe de Redes]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>4</wp:author_id><wp:author_login><![CDATA[profe.so]]></wp:author_login><wp:author_email><![CDATA[profe.so@example.com]]></wp:author_email><wp:author_display_name><![CDATA[Profe de Sistemas]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:category><wp:term_id>10</wp:term_id><wp:category_nicename><![CDATA[noticias]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Noticias]]></wp:cat_name></wp:category>
+	<wp:category><wp:term_id>11</wp:term_id><wp:category_nicename><![CDATA[eventos]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Eventos]]></wp:cat_name></wp:category>
+	<wp:category><wp:term_id>12</wp:term_id><wp:category_nicename><![CDATA[practicas]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Prácticas]]></wp:cat_name></wp:category>
+	<wp:tag><wp:term_id>20</wp:term_id><wp:tag_slug><![CDATA[docker]]></wp:tag_slug><wp:tag_name><![CDATA[Docker]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:term_id>21</wp:term_id><wp:tag_slug><![CDATA[redes]]></wp:tag_slug><wp:tag_name><![CDATA[Redes]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:term_id>22</wp:term_id><wp:tag_slug><![CDATA[fct]]></wp:tag_slug><wp:tag_name><![CDATA[FCT]]></wp:tag_name></wp:tag>
+	<item>
+		<title><![CDATA[Jornada de puertas abiertas del ciclo ASIR]]></title>
+		<link>http://ciclo-asir.ejemplo/jornada-puertas-abiertas/</link>
+		<pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[coord.web]]></dc:creator>
+		<guid isPermaLink="false">http://ciclo-asir.ejemplo/?p=101</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>El próximo jueves abrimos el aula técnica a las familias y al alumnado de bachillerato.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Habrá demostraciones de redes, servidores y contenedores preparadas por el alumnado de segundo curso.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>101</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-02 10:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-02 09:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-10-02 10:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-02 09:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[jornada-puertas-abiertas]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="noticias"><![CDATA[Noticias]]></category>
+		<category domain="category" nicename="eventos"><![CDATA[Eventos]]></category>
+	</item>
+	<item>
+		<title><![CDATA[Charla: contenedores en producción]]></title>
+		<link>http://ciclo-asir.ejemplo/charla-devops/</link>
+		<pubDate>Thu, 08 Oct 2026 11:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[profe.so]]></dc:creator>
+		<guid isPermaLink="false">http://ciclo-asir.ejemplo/?p=102</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Una administradora de sistemas de una empresa de hosting valenciana nos contará cómo despliegan servicios con contenedores.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La charla será en el salón de actos y está abierta a los dos cursos del ciclo.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>102</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-08 12:30:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-08 11:30:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-10-08 12:30:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-08 11:30:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[charla-devops]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="eventos"><![CDATA[Eventos]]></category>
+		<category domain="post_tag" nicename="docker"><![CDATA[Docker]]></category>
+	</item>
+	<item>
+		<title><![CDATA[Nuevo armario de comunicaciones en el aula]]></title>
+		<link>http://ciclo-asir.ejemplo/nuevo-rack-aula/</link>
+		<pubDate>Wed, 14 Oct 2026 08:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[profe.redes]]></dc:creator>
+		<guid isPermaLink="false">http://ciclo-asir.ejemplo/?p=103</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Ya está instalado el nuevo armario de 42U con dos conmutadores gestionables y un panel de parcheo.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Lo usaremos en las prácticas de VLAN y de enrutamiento entre redes.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>103</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-14 09:15:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-14 08:15:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-10-14 09:15:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-14 08:15:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[nuevo-rack-aula]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="noticias"><![CDATA[Noticias]]></category>
+		<category domain="post_tag" nicename="redes"><![CDATA[Redes]]></category>
+	</item>
+	<item>
+		<title><![CDATA[Práctica: el stack de WordPress en contenedores]]></title>
+		<link>http://ciclo-asir.ejemplo/practica-stack-docker/</link>
+		<pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[profe.so]]></dc:creator>
+		<guid isPermaLink="false">http://ciclo-asir.ejemplo/?p=104</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>En esta práctica añadimos WordPress con nginx y PHP-FPM al stack del módulo.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Recordad trabajar siempre en vuestra rama y hacer commit al acabar cada paso.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>104</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-20 11:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-20 10:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-10-20 11:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-20 10:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[practica-stack-docker]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="practicas"><![CDATA[Prácticas]]></category>
+		<category domain="post_tag" nicename="docker"><![CDATA[Docker]]></category>
+	</item>
+	<item>
+		<title><![CDATA[Empresas colaboradoras para la formación en empresa]]></title>
+		<link>http://ciclo-asir.ejemplo/empresas-fct-2027/</link>
+		<pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[coord.web]]></dc:creator>
+		<guid isPermaLink="false">http://ciclo-asir.ejemplo/?p=105</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Publicamos la lista provisional de empresas que acogerán alumnado de segundo curso durante el periodo de formación en empresa.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Las entrevistas empezarán en febrero.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>105</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-27 13:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-27 12:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-10-27 13:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-27 12:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[empresas-fct-2027]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="noticias"><![CDATA[Noticias]]></category>
+		<category domain="post_tag" nicename="fct"><![CDATA[FCT]]></category>
+	</item>
+	<item>
+		<title><![CDATA[Hackathon de ciberseguridad]]></title>
+		<link>http://ciclo-asir.ejemplo/hackathon-ciberseguridad/</link>
+		<pubDate>Tue, 03 Nov 2026 15:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[profe.redes]]></dc:creator>
+		<guid isPermaLink="false">http://ciclo-asir.ejemplo/?p=106</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Abrimos inscripciones para el hackathon de ciberseguridad entre centros de la Comunitat Valenciana.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Equipos de tres personas, con retos de redes, sistemas y aplicaciones web.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>106</wp:post_id>
+		<wp:post_date><![CDATA[2026-11-03 16:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-11-03 15:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-03 16:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-03 15:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hackathon-ciberseguridad]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="eventos"><![CDATA[Eventos]]></category>
+		<category domain="post_tag" nicename="redes"><![CDATA[Redes]]></category>
+	</item>
+	<item>
+		<title><![CDATA[Horario del ciclo]]></title>
+		<link>http://ciclo-asir.ejemplo/horario-ciclo/</link>
+		<pubDate>Mon, 14 Sep 2026 07:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[coord.web]]></dc:creator>
+		<guid isPermaLink="false">http://ciclo-asir.ejemplo/?p=107</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Primer curso: de lunes a viernes, de 15:00 a 21:00.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Segundo curso: de lunes a viernes, de 8:00 a 14:30.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>107</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-14 08:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-14 07:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-14 08:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-14 07:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[horario-ciclo]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+	</item>
+	<item>
+		<title><![CDATA[Normas del aula técnica]]></title>
+		<link>http://ciclo-asir.ejemplo/normas-aula/</link>
+		<pubDate>Mon, 14 Sep 2026 07:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[coord.web]]></dc:creator>
+		<guid isPermaLink="false">http://ciclo-asir.ejemplo/?p=108</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>No se come ni se bebe junto a los equipos.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cada puesto se deja apagado y con la silla recogida al final de la sesión.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>108</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-14 08:05:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-14 07:05:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-14 08:05:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-14 07:05:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[normas-aula]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+	</item>
+</channel>
+</rss>
