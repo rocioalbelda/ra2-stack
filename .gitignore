@@ -1,2 +1,5 @@
+backups/
+exportaciones/
+logs/
+informes/
 .env
-.env.example

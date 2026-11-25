@@ -24,3 +24,13 @@ Despliegue contenedorizado de WordPress mediante Docker Compose compuesto por \*
 
 &#x20;  cd ra2-stack
 
+$readmeBackupSection = @"
+
+## Copias de seguridad
+
+### Realizar una copia automatizada
+Con los servicios `db` y `wordpress` en marcha, ejecuta desde Git Bash en la raíz del repositorio:
+
+```bash
+./scripts/backup.sh
+
